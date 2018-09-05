@@ -108,7 +108,7 @@ public class DemoTest01 {
 		CharTermAttribute addAttribute = tokenStream.addAttribute(CharTermAttribute.class);
 		while (tokenStream.incrementToken()) {
 			 System.out.println(addAttribute);
-			 System.out.println(111111111111111);
+			 System.out.println(1111);
 		}
 	}
 	
