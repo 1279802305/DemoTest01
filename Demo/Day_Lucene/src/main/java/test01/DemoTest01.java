@@ -109,6 +109,8 @@ public class DemoTest01 {
 		while (tokenStream.incrementToken()) {
 			 System.out.println(addAttribute);
 			 System.out.println(1111223);
+			 System.out.println(1111223);
+			 System.out.println(1111223);
 		}
 	}
 	
